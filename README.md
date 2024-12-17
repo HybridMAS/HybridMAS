@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning agentic control closed loop algorithms.
 - 💞️ I’m looking to collaborate on MAS, NeurSym, AI assistant models. 
 - 📫 How to reach: www.linkedin.com/in/marcin-brdys-247128114 
-- 😄 Pronouns: #AI 
+- 😄 Pronouns: #AI #Knight2Queen
 <!---
 HybridMAS/HybridMAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
